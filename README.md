@@ -1,1 +1,1 @@
-Untuk dataset newDataBaseVk.csv adalah bersumbr dari kaggle.com dari Alexey Taran
+Untuk dataset newDataBaseVk.csv adalah bersumber dari kaggle.com dari Alexey Taran
